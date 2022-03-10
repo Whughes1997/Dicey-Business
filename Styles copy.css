@@ -1,0 +1,24 @@
+.die {
+    width: 8rem;
+    height: 8rem;
+    padding: 0.25rem;
+    margin: 2rem;
+    background-color: rgba(226, 227, 228, 0.875);
+    border-radius: 5px;
+    display: inline-block;
+    font-size: 4em;
+}
+
+.body {
+    background: url("coolart.jpeg");
+    background-size: cover;
+}
+
+.die:hover {
+    cursor: pointer;
+}
+
+.img {
+    width: 128px;
+    height: 128px;
+}

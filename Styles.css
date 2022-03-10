@@ -1,0 +1,39 @@
+.dice {
+    width: 8rem;
+    height: 8rem;
+    padding: 0.25rem;
+    margin: 2rem;
+    background-color: red;
+    border-radius: 5px;
+    display: inline-block;
+    color: white;
+}
+
+body {
+    background: url("coolart.jpeg");
+    background-size: cover;
+}
+
+.die:hover {
+    cursor: pointer;
+}
+
+
+/* .img {
+    width: 128px;
+    height: 128px;
+} */
+
+#btn1 {
+    background-color: green;
+    font-size: 20px;
+    border-radius: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#btn2 {
+    background-color: red;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 12px;
+}
